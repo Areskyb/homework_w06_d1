@@ -198,6 +198,7 @@ const declareWeapon = function() {
 changeScenario();
 const verdict = declareWeapon();
 console.log(verdict);
+// Candle Stick??
 ```
 
 #### Episode 9
@@ -215,6 +216,7 @@ const declareMurderer = function() {
 
 const verdict = declareMurderer();
 console.log(verdict);
+// Professor Plum
 ```
 
 ### Extensions
